@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+name: test
+  avatar: photo
+  bio: testing bio
+  email: email@email.com
